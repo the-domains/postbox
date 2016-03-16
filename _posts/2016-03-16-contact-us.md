@@ -6,9 +6,9 @@ inLanguage: null
 starred: false
 keywords: []
 description: "At Post Box, you will find a team spearheaded by Surya Kumar,\_ a FLAME specialist, who works with Raghupathi, the VFX supervisor and Arun Kumar the offline editor."
-datePublished: '2016-03-16T04:43:45.342Z'
-dateModified: '2016-03-16T04:43:36.732Z'
-title: Contact Us
+datePublished: '2016-03-16T05:08:01.370Z'
+dateModified: '2016-03-16T05:07:50.513Z'
+title: "We'd like to hear from you.\_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_"
 author: []
 sourcePath: _posts/2016-03-16-contact-us.md
 published: true
@@ -22,20 +22,6 @@ url: contact-us/index.html
 _type: WebPage
 
 ---
-At Post Box, you will find a team spearheaded by Surya Kumar,  a FLAME specialist, who works with Raghupathi, the VFX supervisor and Arun Kumar the offline editor.
+# We'd like to hear from you.                                                             ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/f85e7659-e83a-4f50-bbe8-9d8e45c78688.png)
 
-They come together as a team to transform your story into a perfect piece of cinematic execution.
-
-###### About Us
-
-The Post Box reel tells the story of how you can transform a mere thought into a sensational frame of film.
-
-Post Box has facilities to Edit, render visual effects, Colour Grade, Clean up and render audio and video sync.
-
-###### Services
-
-The sheen and tenor of a piece of audiovisual work is enhanced by good and competent Post Production.
-
-As someone once said, that life is induced into film at the editor's table.
-
-Today Post Production is a fine art, which combines creativity with edgy technology, to bring to life spectacular celluloid creations.
+POSTBOX                                                                                                                                       7th Floor, Unit 'B", Gee Gee Emerald,                                                                              151, Village Road,                                                                                           Nungambakkam, Chennai - 600018                                                                       Email - info@postboxstudios.com                                                                         Phone -  +91 9840479812
