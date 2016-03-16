@@ -4,8 +4,15 @@
         <description><![CDATA[postbox studios]]></description>
         <link>https://thegrid.ai/postbox/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 16 Mar 2016 03:26:27 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 16 Mar 2016 03:26:31 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/postbox/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[About us]]></title>
+            <description><![CDATA[<article><h1>About us</h1><p>At Post Box, you will find a team spearheaded by Surya Kumar,  a FLAME specialist, who works with Raghupathi, the VFX supervisor and Arun Kumar the offline editor.</p></article>]]></description>
+            <link>https://thegrid.ai/postbox/about-us/index.html</link>
+            <guid isPermaLink="false">52f02c2c-e355-45d6-a915-5e4fd677fd72</guid>
+            <pubDate>Wed, 16 Mar 2016 03:25:55 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Contact Us]]></title>
             <description><![CDATA[<article><h1>Contact Us</h1><p>At Post Box, you will find a team spearheaded by Surya Kumar,  a FLAME specialist, who works with Raghupathi, the VFX supervisor and Arun Kumar the offline editor.</p></article>]]></description>
@@ -70,13 +77,6 @@ Production.</p></article>]]></description>
             <link>https://www.youtube.com/watch?v=6jJHvV2X8go</link>
             <guid isPermaLink="false">56e4b4cb-3d89-4241-be3a-9db0ab0d5ee8</guid>
             <pubDate>Tue, 08 Mar 2016 06:57:33 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[VIKING VESTIGAL]]></title>
-            <description><![CDATA[<article><h1>VIKING VESTIGAL</h1><p>Uploaded by Post Box Studio on 2016-02-19.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/110f3d1b4593317ea0a4cbb7e70398570d1635db.jpg"></article>]]></description>
-            <link>https://www.youtube.com/watch?v=uwAw9ZCpfsw</link>
-            <guid isPermaLink="false">ec1312a6-f6be-4e2c-bbbe-f0a499f80353</guid>
-            <pubDate>Tue, 08 Mar 2016 06:45:00 GMT</pubDate>
         </item>
     </channel>
 </rss>
