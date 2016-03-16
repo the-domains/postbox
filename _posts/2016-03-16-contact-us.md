@@ -1,0 +1,41 @@
+---
+inFeed: true
+hasPage: true
+inNav: true
+inLanguage: null
+starred: false
+keywords: []
+description: "At Post Box, you will find a team spearheaded by Surya Kumar,\_ a FLAME specialist, who works with Raghupathi, the VFX supervisor and Arun Kumar the offline editor."
+datePublished: '2016-03-16T03:25:55.408Z'
+dateModified: '2016-03-16T03:25:54.993Z'
+title: Contact Us
+author: []
+authors: []
+publisher:
+  name: null
+  domain: null
+  url: null
+  favicon: null
+sourcePath: _posts/2016-03-16-contact-us.md
+published: true
+url: contact-us/index.html
+_type: Article
+
+---
+At Post Box, you will find a team spearheaded by Surya Kumar,  a FLAME specialist, who works with Raghupathi, the VFX supervisor and Arun Kumar the offline editor.
+
+They come together as a team to transform your story into a perfect piece of cinematic execution.
+
+###### About Us
+
+The Post Box reel tells the story of how you can transform a mere thought into a sensational frame of film.
+
+Post Box has facilities to Edit, render visual effects, Colour Grade, Clean up and render audio and video sync.
+
+###### Services
+
+The sheen and tenor of a piece of audiovisual work is enhanced by good and competent Post Production.
+
+As someone once said, that life is induced into film at the editor's table.
+
+Today Post Production is a fine art, which combines creativity with edgy technology, to bring to life spectacular celluloid creations.
