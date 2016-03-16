@@ -1,25 +1,25 @@
 ---
-inFeed: true
+inFeed: false
 hasPage: true
 inNav: true
 inLanguage: null
 starred: false
 keywords: []
 description: "At Post Box, you will find a team spearheaded by Surya Kumar,\_ a FLAME specialist, who works with Raghupathi, the VFX supervisor and Arun Kumar the offline editor."
-datePublished: '2016-03-16T03:25:55.408Z'
-dateModified: '2016-03-16T03:25:54.993Z'
+datePublished: '2016-03-16T04:43:45.342Z'
+dateModified: '2016-03-16T04:43:36.732Z'
 title: Contact Us
 author: []
+sourcePath: _posts/2016-03-16-contact-us.md
+published: true
 authors: []
 publisher:
   name: null
   domain: null
   url: null
   favicon: null
-sourcePath: _posts/2016-03-16-contact-us.md
-published: true
 url: contact-us/index.html
-_type: Article
+_type: WebPage
 
 ---
 At Post Box, you will find a team spearheaded by Surya Kumar,  a FLAME specialist, who works with Raghupathi, the VFX supervisor and Arun Kumar the offline editor.
