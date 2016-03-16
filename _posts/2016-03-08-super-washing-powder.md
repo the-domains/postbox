@@ -1,26 +1,29 @@
 ---
+inFeed: true
+hasPage: false
+inNav: false
+isBasedOnUrl: 'https://www.youtube.com/watch?v=429JaUh5Oz8'
+inLanguage: null
+starred: false
+keywords: []
+description: ''
+datePublished: '2016-03-16T17:34:56.936Z'
+dateModified: '2016-03-16T17:34:56.229Z'
 author:
   - name: Post Box Studio
     url: 'https://www.youtube.com/channel/UCHhoiPTDquukU_AUZ-10koQ'
     avatar: {}
 related: []
-publisher:
-  url: 'https://www.youtube.com/'
-  name: YouTube
-  favicon: 'https://www.youtube.com/favicon.ico'
-  domain: www.youtube.com
-keywords: []
-description: Uploaded by Post Box Studio on 2016-02-13.
 app_links: []
-isBasedOnUrl: 'https://www.youtube.com/watch?v=429JaUh5Oz8'
 title: SUPER WASHING POWDER
-datePublished: '2016-03-08T07:09:29.716Z'
-dateModified: '2016-03-08T06:59:33.460Z'
 sourcePath: _posts/2016-03-08-super-washing-powder.md
 published: true
-inFeed: true
-hasPage: false
-inNav: false
+authors: []
+publisher:
+  name: YouTube
+  domain: www.youtube.com
+  url: 'https://www.youtube.com/'
+  favicon: 'https://www.youtube.com/favicon.ico'
 _type: VideoObject
 _context: 'http://schema.org'
 
