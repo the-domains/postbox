@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: "POSTBOX \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ 7th Floor, Unit 'B\", Gee Gee Emerald, \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ 151, Village Road,\_Nungambakkam, \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ Chennai - 600018"
-datePublished: '2016-03-17T06:04:55.380Z'
-dateModified: '2016-03-17T06:04:44.530Z'
+datePublished: '2016-03-17T06:06:43.286Z'
+dateModified: '2016-03-17T06:06:42.517Z'
 title: Contact Us
 author: []
 sourcePath: _posts/2016-03-17-contact-us.md
@@ -22,7 +22,7 @@ url: contact-us/index.html
 _type: WebPage
 
 ---
-Contact Us
+Contact us
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/7b6f508b-2239-4808-b107-dd78a4a62fd0.png)
 
 POSTBOX                                                                                                                                       7th Floor, Unit 'B", Gee Gee Emerald,                                                                             151, Village Road, Nungambakkam,                                                                       Chennai - 600018
