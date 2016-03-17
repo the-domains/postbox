@@ -1,8 +1,7 @@
 ---
 inFeed: true
-hasPage: false
-inNav: false
-isBasedOnUrl: 'https://www.youtube.com/watch?v=6jJHvV2X8go'
+hasPage: true
+inNav: true
 inLanguage: en
 starred: false
 keywords:
@@ -17,8 +16,8 @@ keywords:
   - brofresco
   - hbconline
 description: ''
-datePublished: '2016-03-16T18:01:30.253Z'
-dateModified: '2016-03-16T17:59:41.715Z'
+datePublished: '2016-03-17T05:40:16.240Z'
+dateModified: '2016-03-17T05:40:09.944Z'
 author:
   - name: Post Box Studio
     url: 'https://www.youtube.com/channel/UCHhoiPTDquukU_AUZ-10koQ'
@@ -70,6 +69,7 @@ publisher:
   domain: www.youtube.com
   url: 'https://www.youtube.com/'
   favicon: 'https://s.ytimg.com/yts/img/favicon-vflz7uhzw.ico'
+url: grt-oriana/index.html
 _type: VideoObject
 _context: 'http://schema.org'
 
