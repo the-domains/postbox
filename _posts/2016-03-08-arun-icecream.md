@@ -1,14 +1,10 @@
 ---
-author:
-  - name: Post Box Studio
-    url: 'https://www.youtube.com/channel/UCHhoiPTDquukU_AUZ-10koQ'
-    avatar: {}
-related: []
-publisher:
-  url: 'https://www.youtube.com/'
-  name: YouTube
-  favicon: 'https://s.ytimg.com/yts/img/favicon-vflz7uhzw.ico'
-  domain: www.youtube.com
+inFeed: true
+hasPage: false
+inNav: false
+isBasedOnUrl: 'https://www.youtube.com/watch?v=QboRNZWL8OI'
+inLanguage: en
+starred: false
 keywords:
   - duration
   - arun
@@ -20,8 +16,14 @@ keywords:
   - cream
   - sana
   - kadhai
-description: Uploaded by Post Box Studio on 2016-02-19.
-inLanguage: en
+description: ''
+datePublished: '2016-03-17T07:51:16.580Z'
+dateModified: '2016-03-17T07:51:07.564Z'
+author:
+  - name: Post Box Studio
+    url: 'https://www.youtube.com/channel/UCHhoiPTDquukU_AUZ-10koQ'
+    avatar: {}
+related: []
 app_links:
   - url: 'vnd.youtube://www.youtube.com/watch?v=QboRNZWL8OI&feature=applinks'
     type: ios
@@ -59,15 +61,15 @@ app_links:
     package: '544007664'
     namespace: google
     type: ios
-isBasedOnUrl: 'https://www.youtube.com/watch?v=QboRNZWL8OI'
 title: ARUN ICECREAM
-datePublished: '2016-03-08T07:09:06.900Z'
-dateModified: '2016-03-08T06:56:42.517Z'
 sourcePath: _posts/2016-03-08-arun-icecream.md
 published: true
-inFeed: true
-hasPage: false
-inNav: false
+authors: []
+publisher:
+  name: YouTube
+  domain: www.youtube.com
+  url: 'https://www.youtube.com/'
+  favicon: 'https://s.ytimg.com/yts/img/favicon-vflz7uhzw.ico'
 _type: VideoObject
 _context: 'http://schema.org'
 
