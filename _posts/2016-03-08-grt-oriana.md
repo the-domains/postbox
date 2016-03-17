@@ -1,5 +1,5 @@
 ---
-inFeed: true
+inFeed: false
 hasPage: true
 inNav: true
 inLanguage: en
@@ -16,8 +16,8 @@ keywords:
   - brofresco
   - hbconline
 description: ''
-datePublished: '2016-03-17T05:47:49.607Z'
-dateModified: '2016-03-17T05:47:36.767Z'
+datePublished: '2016-03-17T05:54:23.743Z'
+dateModified: '2016-03-17T05:54:17.162Z'
 author:
   - name: Post Box Studio
     url: 'https://www.youtube.com/channel/UCHhoiPTDquukU_AUZ-10koQ'
@@ -77,16 +77,11 @@ _context: 'http://schema.org'
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/ac9bcf13-6505-4ae3-809f-169b382318b0.jpg)
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/440e9a16-f81b-42fd-9b9e-08eae826fbee.jpg)
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/cf51eb0b-6be7-48ec-95bb-59a2f34aea72.jpg)
-
-  
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/a49ef45d-4125-4e80-8563-cc9d09f451b8.jpg)
-
-  
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/4256f064-4564-4eaa-acfc-7a1ded906ad7.jpg)
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/8dfa9f59-cfd9-40b2-b06f-9942964e09b2.jpg)
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/c5441728-b86a-44c3-bf98-57ac33a6283a.jpg)
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/ba048cfc-51af-4e86-a103-515b863657ac.jpg)
 
-  
   
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/e965b388-c636-4974-95b2-b059b38d81c8.jpg)
