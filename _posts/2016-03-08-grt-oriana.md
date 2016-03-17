@@ -16,8 +16,8 @@ keywords:
   - brofresco
   - hbconline
 description: ''
-datePublished: '2016-03-17T05:54:23.743Z'
-dateModified: '2016-03-17T05:54:17.162Z'
+datePublished: '2016-03-17T06:11:01.872Z'
+dateModified: '2016-03-17T06:10:54.777Z'
 author:
   - name: Post Box Studio
     url: 'https://www.youtube.com/channel/UCHhoiPTDquukU_AUZ-10koQ'
@@ -82,6 +82,5 @@ _context: 'http://schema.org'
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/8dfa9f59-cfd9-40b2-b06f-9942964e09b2.jpg)
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/c5441728-b86a-44c3-bf98-57ac33a6283a.jpg)
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/ba048cfc-51af-4e86-a103-515b863657ac.jpg)
-
-  
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/e965b388-c636-4974-95b2-b059b38d81c8.jpg)
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/7d3e4ad7-1665-42a1-a15e-5b3ab1870884.jpg)
