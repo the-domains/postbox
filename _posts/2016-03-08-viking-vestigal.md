@@ -1,26 +1,29 @@
 ---
+inFeed: true
+hasPage: false
+inNav: false
+isBasedOnUrl: 'https://www.youtube.com/watch?v=uwAw9ZCpfsw'
+inLanguage: null
+starred: false
+keywords: []
+description: Uploaded by Post Box Studio on 2016-02-19.
+datePublished: '2016-03-18T11:26:34.681Z'
+dateModified: '2016-03-18T11:26:30.632Z'
 author:
   - name: Post Box Studio
     url: 'https://www.youtube.com/channel/UCHhoiPTDquukU_AUZ-10koQ'
     avatar: {}
 related: []
-publisher:
-  url: 'https://www.youtube.com/'
-  name: YouTube
-  favicon: 'https://www.youtube.com/favicon.ico'
-  domain: www.youtube.com
-keywords: []
-description: Uploaded by Post Box Studio on 2016-02-19.
 app_links: []
-isBasedOnUrl: 'https://www.youtube.com/watch?v=uwAw9ZCpfsw'
 title: VIKING VESTIGAL
-datePublished: '2016-03-08T06:45:00.877Z'
-dateModified: '2016-03-08T06:43:07.507Z'
 sourcePath: _posts/2016-03-08-viking-vestigal.md
 published: true
-inFeed: true
-hasPage: false
-inNav: false
+authors: []
+publisher:
+  name: YouTube
+  domain: www.youtube.com
+  url: 'https://www.youtube.com/'
+  favicon: 'https://www.youtube.com/favicon.ico'
 _type: VideoObject
 _context: 'http://schema.org'
 
