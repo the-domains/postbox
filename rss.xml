@@ -4,7 +4,7 @@
         <description><![CDATA[postbox studios]]></description>
         <link>https://thegrid.ai/postbox/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Fri, 18 Mar 2016 12:35:27 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 18 Mar 2016 12:35:46 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/postbox/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[ARUN ICECREAM KIDS]]></title>
@@ -12,6 +12,13 @@
             <link>https://www.youtube.com/watch?v=eij7D-iJ568</link>
             <guid isPermaLink="false">5e409630-a5d7-4543-83be-42fe6997060c</guid>
             <pubDate>Fri, 18 Mar 2016 12:35:05 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[GAUDIUM SCHOOL]]></title>
+            <description><![CDATA[<article><h1>GAUDIUM SCHOOL</h1><p>PRODUCTION HOUSE - BLACKBOX FILMS</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/bfca34597420a16788d2de6f956f03075bfe5d17.jpg"></article>]]></description>
+            <link>https://www.youtube.com/watch?v=CqOOMlHcXiI</link>
+            <guid isPermaLink="false">f56ea84c-7419-4784-b6fd-d00e44d606e7</guid>
+            <pubDate>Fri, 18 Mar 2016 12:35:28 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[JAYALAKSHMI SILKS]]></title>
@@ -68,13 +75,6 @@
             <link>https://www.youtube.com/watch?v=k2uivdgOTu0</link>
             <guid isPermaLink="false">f3aa8fa9-395b-4998-8c00-40923dd99d83</guid>
             <pubDate>Fri, 18 Mar 2016 12:01:11 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[BRU INSTANT COFFEE]]></title>
-            <description><![CDATA[<article><h1>BRU INSTANT COFFEE</h1><p>PRODUCTION HOUSE - BLACKBOX FILMS</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/b363a65c25fc83a57bbf31312860ed80a1724187.jpg"></article>]]></description>
-            <link>https://www.youtube.com/watch?v=1zRc84DGCYk</link>
-            <guid isPermaLink="false">a03a5760-8d05-4990-bc5e-f4010df3700d</guid>
-            <pubDate>Fri, 18 Mar 2016 11:46:41 GMT</pubDate>
         </item>
     </channel>
 </rss>
