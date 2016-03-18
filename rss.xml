@@ -4,7 +4,7 @@
         <description><![CDATA[postbox studios]]></description>
         <link>https://thegrid.ai/postbox/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Fri, 18 Mar 2016 11:50:00 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 18 Mar 2016 11:50:20 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/postbox/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[About Us]]></title>
@@ -12,6 +12,13 @@
             <link>https://thegrid.ai/postbox/about-us/index.html</link>
             <guid isPermaLink="false">307e7f88-d061-4130-b157-292ab77d9499</guid>
             <pubDate>Wed, 16 Mar 2016 17:45:19 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[ELEPHANT HOUSE SODA]]></title>
+            <description><![CDATA[<article><h1>ELEPHANT HOUSE SODA</h1><p>PRODUCTION HOUSE - TRISH PRODUCTIONS</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/7f150e2cbb73a3d8db9504b1f71564dd82905908.jpg"></article>]]></description>
+            <link>https://www.youtube.com/watch?v=s5warJxBKyg</link>
+            <guid isPermaLink="false">dd3fc18c-216b-43b8-b6a2-95c8c67c2b0c</guid>
+            <pubDate>Fri, 18 Mar 2016 11:50:17 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[GRT LIVE]]></title>
@@ -68,13 +75,6 @@
             <link>https://www.youtube.com/watch?v=QboRNZWL8OI</link>
             <guid isPermaLink="false">ace4e6e5-ca0b-45c8-ad73-386c233c05ea</guid>
             <pubDate>Thu, 17 Mar 2016 07:58:17 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[PRISTINE PAVILLION]]></title>
-            <description><![CDATA[<article><h1>PRISTINE PAVILLION</h1><p>PRODUCTION HOUSE - HAPPY UNICORN</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/c555a63b510a1e28072fa9e4b123a339e5bbc19a.jpg"></article>]]></description>
-            <link>https://www.youtube.com/watch?v=d15a5pVIuTs</link>
-            <guid isPermaLink="false">01fdccb5-b0be-4f33-82e1-3b4da572de76</guid>
-            <pubDate>Fri, 18 Mar 2016 11:25:50 GMT</pubDate>
         </item>
     </channel>
 </rss>
