@@ -1,26 +1,29 @@
 ---
+inFeed: true
+hasPage: false
+inNav: false
+isBasedOnUrl: 'https://www.youtube.com/watch?v=1zRc84DGCYk'
+inLanguage: null
+starred: false
+keywords: []
+description: Uploaded by Post Box Studio on 2016-02-19.
+datePublished: '2016-03-18T11:46:41.996Z'
+dateModified: '2016-03-18T11:46:38.534Z'
 author:
   - name: Post Box Studio
     url: 'https://www.youtube.com/channel/UCHhoiPTDquukU_AUZ-10koQ'
     avatar: {}
 related: []
-publisher:
-  url: 'https://www.youtube.com/'
-  name: YouTube
-  favicon: 'https://www.youtube.com/favicon.ico'
-  domain: www.youtube.com
-keywords: []
-description: Uploaded by Post Box Studio on 2016-02-19.
 app_links: []
-isBasedOnUrl: 'https://www.youtube.com/watch?v=1zRc84DGCYk'
 title: BRU INSTANT COFFEE
-datePublished: '2016-03-08T06:44:11.811Z'
-dateModified: '2016-03-08T06:42:00.811Z'
 sourcePath: _posts/2016-03-08-bru-instant-coffee.md
 published: true
-inFeed: true
-hasPage: false
-inNav: false
+authors: []
+publisher:
+  name: YouTube
+  domain: www.youtube.com
+  url: 'https://www.youtube.com/'
+  favicon: 'https://www.youtube.com/favicon.ico'
 _type: VideoObject
 _context: 'http://schema.org'
 
