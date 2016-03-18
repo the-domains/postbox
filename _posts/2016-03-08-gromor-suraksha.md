@@ -1,26 +1,29 @@
 ---
+inFeed: false
+hasPage: true
+inNav: false
+inLanguage: null
+starred: false
+keywords: []
+description: Uploaded by Post Box Studio on 2016-02-19.
+datePublished: '2016-03-18T11:51:42.056Z'
+dateModified: '2016-03-18T11:51:38.620Z'
 author:
   - name: Post Box Studio
     url: 'https://www.youtube.com/channel/UCHhoiPTDquukU_AUZ-10koQ'
     avatar: {}
 related: []
-publisher:
-  url: 'https://www.youtube.com/'
-  name: YouTube
-  favicon: 'https://www.youtube.com/favicon.ico'
-  domain: www.youtube.com
-keywords: []
-description: Uploaded by Post Box Studio on 2016-02-19.
 app_links: []
-isBasedOnUrl: 'https://www.youtube.com/watch?v=VygHHYj85Qs'
 title: GROMOR SURAKSHA
-datePublished: '2016-03-08T06:22:46.236Z'
-dateModified: '2016-03-08T06:20:29.061Z'
 sourcePath: _posts/2016-03-08-gromor-suraksha.md
 published: true
-inFeed: true
-hasPage: false
-inNav: false
+authors: []
+publisher:
+  name: YouTube
+  domain: www.youtube.com
+  url: 'https://www.youtube.com/'
+  favicon: 'https://www.youtube.com/favicon.ico'
+url: gromor-suraksha/index.html
 _type: VideoObject
 _context: 'http://schema.org'
 
