@@ -4,7 +4,7 @@
         <description><![CDATA[postbox studios]]></description>
         <link>https://thegrid.ai/postbox/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Fri, 18 Mar 2016 11:48:12 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 18 Mar 2016 11:50:00 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/postbox/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[About Us]]></title>
@@ -12,6 +12,13 @@
             <link>https://thegrid.ai/postbox/about-us/index.html</link>
             <guid isPermaLink="false">307e7f88-d061-4130-b157-292ab77d9499</guid>
             <pubDate>Wed, 16 Mar 2016 17:45:19 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[GRT LIVE]]></title>
+            <description><![CDATA[<article><h1>GRT LIVE</h1><p>PRODUCTION HOUSE - PHOENIX FILMS</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/adb1227ef736ce1d52bcdb602fe1e3ab1add2650.jpg"></article>]]></description>
+            <link>https://www.youtube.com/watch?v=LHSFTVgKaRA</link>
+            <guid isPermaLink="false">71165f01-1715-4708-be0e-e028e603a364</guid>
+            <pubDate>Fri, 18 Mar 2016 11:49:18 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[KOLORS VER 02]]></title>
@@ -68,13 +75,6 @@
             <link>https://www.youtube.com/watch?v=d15a5pVIuTs</link>
             <guid isPermaLink="false">01fdccb5-b0be-4f33-82e1-3b4da572de76</guid>
             <pubDate>Fri, 18 Mar 2016 11:25:50 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[AROMA GHEE]]></title>
-            <description><![CDATA[<article><h1>AROMA GHEE</h1><p>PRODUCTION HOUSE - ORANGETREE</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/3f9bbcfb7209c28bd52645e56725b96be79fc88a.jpg"></article>]]></description>
-            <link>https://www.youtube.com/watch?v=yIgIdb3BKIs</link>
-            <guid isPermaLink="false">e0e39a02-8c1d-4cf4-a3f9-d7f328f1b7be</guid>
-            <pubDate>Fri, 18 Mar 2016 11:25:06 GMT</pubDate>
         </item>
     </channel>
 </rss>
