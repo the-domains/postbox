@@ -1,14 +1,10 @@
 ---
-author:
-  - name: Post Box Studio
-    url: 'https://www.youtube.com/channel/UCHhoiPTDquukU_AUZ-10koQ'
-    avatar: {}
-related: []
-publisher:
-  url: 'https://www.youtube.com/'
-  name: YouTube
-  favicon: 'https://s.ytimg.com/yts/img/favicon-vflz7uhzw.ico'
-  domain: www.youtube.com
+inFeed: true
+hasPage: false
+inNav: false
+isBasedOnUrl: 'https://www.youtube.com/watch?v=PWNFeIXGPnk'
+inLanguage: en
+starred: false
 keywords:
   - vendhar
   - duration
@@ -21,7 +17,13 @@ keywords:
   - promo
   - kalyanam
 description: Uploaded by Post Box Studio on 2016-02-19.
-inLanguage: en
+datePublished: '2016-03-18T11:45:06.189Z'
+dateModified: '2016-03-18T11:45:02.377Z'
+author:
+  - name: Post Box Studio
+    url: 'https://www.youtube.com/channel/UCHhoiPTDquukU_AUZ-10koQ'
+    avatar: {}
+related: []
 app_links:
   - url: 'vnd.youtube://www.youtube.com/watch?v=PWNFeIXGPnk&feature=applinks'
     type: ios
@@ -59,15 +61,15 @@ app_links:
     package: '544007664'
     namespace: google
     type: ios
-isBasedOnUrl: 'https://www.youtube.com/watch?v=PWNFeIXGPnk'
 title: VENDHAR TV PROMO 2
-datePublished: '2016-03-08T06:44:11.650Z'
-dateModified: '2016-03-08T06:42:51.032Z'
 sourcePath: _posts/2016-03-08-vendhar-tv-promo-2.md
 published: true
-inFeed: true
-hasPage: false
-inNav: false
+authors: []
+publisher:
+  name: YouTube
+  domain: www.youtube.com
+  url: 'https://www.youtube.com/'
+  favicon: 'https://s.ytimg.com/yts/img/favicon-vflz7uhzw.ico'
 _type: VideoObject
 _context: 'http://schema.org'
 
