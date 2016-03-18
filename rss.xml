@@ -4,7 +4,7 @@
         <description><![CDATA[postbox studios]]></description>
         <link>https://thegrid.ai/postbox/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Fri, 18 Mar 2016 12:42:14 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 18 Mar 2016 12:41:55 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/postbox/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[About Us]]></title>
@@ -12,13 +12,6 @@
             <link>https://thegrid.ai/postbox/about-us/index.html</link>
             <guid isPermaLink="false">307e7f88-d061-4130-b157-292ab77d9499</guid>
             <pubDate>Fri, 18 Mar 2016 12:38:05 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[ELEPHANT HOUSE SODA]]></title>
-            <description><![CDATA[<article><h1>ELEPHANT HOUSE SODA</h1><p>PRODUCTION HOUSE - TRISH PRODUCTIONS</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/7f150e2cbb73a3d8db9504b1f71564dd82905908.jpg"></article>]]></description>
-            <link>https://www.youtube.com/watch?v=s5warJxBKyg</link>
-            <guid isPermaLink="false">dd3fc18c-216b-43b8-b6a2-95c8c67c2b0c</guid>
-            <pubDate>Fri, 18 Mar 2016 12:42:12 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[GRT LIVE]]></title>
@@ -75,6 +68,13 @@
             <link>https://www.youtube.com/watch?v=d15a5pVIuTs</link>
             <guid isPermaLink="false">01fdccb5-b0be-4f33-82e1-3b4da572de76</guid>
             <pubDate>Fri, 18 Mar 2016 12:39:08 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[VIKING VESTIGAL]]></title>
+            <description><![CDATA[<article><h1>VIKING VESTIGAL</h1><p>PRODUCTION HOUSE - SUMAN ADS</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/110f3d1b4593317ea0a4cbb7e70398570d1635db.jpg"></article>]]></description>
+            <link>https://www.youtube.com/watch?v=uwAw9ZCpfsw</link>
+            <guid isPermaLink="false">ec1312a6-f6be-4e2c-bbbe-f0a499f80353</guid>
+            <pubDate>Fri, 18 Mar 2016 12:38:45 GMT</pubDate>
         </item>
     </channel>
 </rss>
