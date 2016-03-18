@@ -1,14 +1,10 @@
 ---
-author:
-  - name: Post Box Studio
-    url: 'https://www.youtube.com/channel/UCHhoiPTDquukU_AUZ-10koQ'
-    avatar: {}
-related: []
-publisher:
-  url: 'https://www.youtube.com/'
-  name: YouTube
-  favicon: 'https://s.ytimg.com/yts/img/favicon-vflz7uhzw.ico'
-  domain: www.youtube.com
+inFeed: true
+hasPage: false
+inNav: false
+isBasedOnUrl: 'https://www.youtube.com/watch?v=eij7D-iJ568'
+inLanguage: en
+starred: true
 keywords:
   - duration
   - studio
@@ -21,7 +17,13 @@ keywords:
   - kadhai
   - nathella
 description: Uploaded by Post Box Studio on 2016-02-19.
-inLanguage: en
+datePublished: '2016-03-18T11:50:59.853Z'
+dateModified: '2016-03-18T11:50:57.498Z'
+author:
+  - name: Post Box Studio
+    url: 'https://www.youtube.com/channel/UCHhoiPTDquukU_AUZ-10koQ'
+    avatar: {}
+related: []
 app_links:
   - url: 'vnd.youtube://www.youtube.com/watch?v=eij7D-iJ568&feature=applinks'
     type: ios
@@ -59,15 +61,15 @@ app_links:
     package: '544007664'
     namespace: google
     type: ios
-isBasedOnUrl: 'https://www.youtube.com/watch?v=eij7D-iJ568'
 title: ARUN ICECREAM KIDS
-datePublished: '2016-03-08T06:44:12.337Z'
-dateModified: '2016-03-08T06:41:20.119Z'
 sourcePath: _posts/2016-03-08-arun-icecream-kids.md
 published: true
-inFeed: true
-hasPage: false
-inNav: false
+authors: []
+publisher:
+  name: YouTube
+  domain: www.youtube.com
+  url: 'https://www.youtube.com/'
+  favicon: 'https://s.ytimg.com/yts/img/favicon-vflz7uhzw.ico'
 _type: VideoObject
 _context: 'http://schema.org'
 
