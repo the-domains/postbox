@@ -4,7 +4,7 @@
         <description><![CDATA[postbox studios]]></description>
         <link>https://thegrid.ai/postbox/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 30 Mar 2016 10:22:08 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 30 Mar 2016 10:22:59 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/postbox/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[About Us]]></title>
@@ -12,6 +12,13 @@
             <link>https://thegrid.ai/postbox/about-us/index.html</link>
             <guid isPermaLink="false">307e7f88-d061-4130-b157-292ab77d9499</guid>
             <pubDate>Fri, 18 Mar 2016 12:38:05 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[7UP DANCE PATTALAM ]]></title>
+            <description><![CDATA[<article><h1>7UP DANCE PATTALAM </h1><p>PRODUCTION HOUSE - FABLE FACTORY FILMS</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/f964813d62b875aac2f34d07194f235a86f55249.jpg"></article>]]></description>
+            <link>https://www.youtube.com/watch?v=oEYL3Y89E58</link>
+            <guid isPermaLink="false">e08c5f2d-6e5c-484d-9532-362b8147053f</guid>
+            <pubDate>Wed, 30 Mar 2016 10:22:19 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[GRT ORIANA]]></title>
@@ -68,13 +75,6 @@
             <link>https://www.youtube.com/watch?v=1zRc84DGCYk</link>
             <guid isPermaLink="false">a03a5760-8d05-4990-bc5e-f4010df3700d</guid>
             <pubDate>Fri, 18 Mar 2016 12:41:22 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[KOLORS ]]></title>
-            <description><![CDATA[<article><h1>KOLORS </h1><p>PRODUCTION HOUSE - COLOR PURPLE FILMS</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/08ed900f8cbd8dcb751cda2c8abeeb72a6fb8f11.jpg"></article>]]></description>
-            <link>https://www.youtube.com/watch?v=k2uivdgOTu0</link>
-            <guid isPermaLink="false">f3aa8fa9-395b-4998-8c00-40923dd99d83</guid>
-            <pubDate>Fri, 18 Mar 2016 12:40:59 GMT</pubDate>
         </item>
     </channel>
 </rss>
